@@ -1,0 +1,2 @@
+# Optimised-charging-scheduling-using-natureeinspired-Metaheuristic-algorithm-in-WSN
+This project implements an optimized charging scheduling system for Wireless Sensor Networks (WSNs) using a nature-inspired metaheuristic algorithm, specifically Dynamic Grey Wolf Optimization (DGWO). The primary goal is to efficiently schedule mobile charger paths to recharge sensor nodes, minimizing energy waste and maximizing network lifetime.
